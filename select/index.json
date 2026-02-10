@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "勘ぐれい",
+  "base_artist": "ずっと真夜中でいいのに。",
+  "createdAt": "2026-02-10T09:41:44.717460Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "勘ぐれい",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_勘ぐれい_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "勘ぐれい",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_勘ぐれい_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "勘ぐれい",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/03_勘ぐれい_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "勘ぐれい - Hunch Gray",
+      "artist": "ずっと真夜中でいいのに。 - ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/04_勘ぐれい_-_Hunch_Gray_ずっと真夜中でいいのに。_-_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "勘ぐれい [8bit ver.]",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/05_勘ぐれい_[8bit_ver.]_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "勘ぐれい = Hunch Gray",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/06_勘ぐれい_=_Hunch_Gray_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "勘ぐれい - Hunch Gray",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/07_勘ぐれい_-_Hunch_Gray_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "勘ぐれい (灰心感)",
+      "artist": "ずっと真夜中でいいのに。 (永远是深夜有多好｡)",
+      "has_synced": true,
+      "path": "select/08_勘ぐれい_(灰心感)_ずっと真夜中でいいのに。_(永远是深夜有多好。).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "勘ぐれい (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/09_勘ぐれい_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hunch Gray (勘ぐれい)",
+      "artist": "Zutto Mayonaka de Iinoni. (ずっと真夜中でいいのに。)",
+      "has_synced": true,
+      "path": "select/10_Hunch_Gray_(勘ぐれい)_Zutto_Mayonaka_de_Iinoni._(ずっと真夜中でいいのに。).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "勘ぐれい - Live",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/11_勘ぐれい_-_Live_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "勘ぐれい",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_勘ぐれい_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
